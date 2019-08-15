@@ -1,4 +1,4 @@
-package com.ucll.cookbook;
+package com.ucll.cookbook.domain.db;
 
 public class DbException extends RuntimeException {
     private static final long serialVersionUID = 1L;

@@ -1,4 +1,6 @@
-package com.ucll.cookbook;
+package com.ucll.cookbook.domain.db;
+
+import com.ucll.cookbook.domain.model.Recipe;
 
 import java.util.ArrayList;
 import java.util.HashMap;

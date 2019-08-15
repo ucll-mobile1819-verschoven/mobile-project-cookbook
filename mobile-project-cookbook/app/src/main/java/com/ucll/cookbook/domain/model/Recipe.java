@@ -1,4 +1,4 @@
-package com.ucll.cookbook;
+package com.ucll.cookbook.domain.model;
 
 public class Recipe {
     private int ID;

@@ -1,10 +1,12 @@
-package com.ucll.cookbook;
+package com.ucll.cookbook.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.ucll.cookbook.R;
 
 public class DisplayMessageActivity extends AppCompatActivity {
 
